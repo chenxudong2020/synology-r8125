@@ -1,0 +1,27 @@
+{
+  "mod_version": "1.1.1",
+
+  "files": [
+    {
+      "name": "r8125-v1000.tgz",
+      "url": "https://raw.githubusercontent.com/wjz304/r8125/master/r8125/releases/r8125-v1000.tgz",
+      "sha256": "e63a85a183cbac1e4285daf71b37d7f8f72ec591a86651824a02f29391936d0b",
+      "packed": true
+    },
+    {
+      "name": "check-r8125.sh",
+      "url": "https://raw.githubusercontent.com/wjz304/r8125/master/r8125/src/check-r8125.sh",
+      "sha256": "ec4f266812ed308c0e15363315cfe696a2eee48b024130260fca15bd6e63dd91",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "r8125.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-r8125.sh"
+  }
+
+}
