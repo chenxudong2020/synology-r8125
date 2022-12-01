@@ -1,16 +1,16 @@
 {
-  "mod_version": "1.1.1",
+  "mod_version": "1.0.0",
 
   "files": [
     {
       "name": "r8125-broadwell.tgz",
-      "url": "https://raw.githubusercontent.com/wjz304/r8125/master/r8125/releases/r8125-broadwell.tgz",
-      "sha256": "715b4a1468cdd8207065dec885a443a8b7cb757608b0abac1bbff3b1366f6d76",
+      "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/releases/r8125-broadwell.tgz",
+      "sha256": "281885426996ec79eae3a1fb8cd742fa0c2904bf49390d4a39009108fac507bc",
       "packed": true
     },
     {
       "name": "check-r8125.sh",
-      "url": "https://raw.githubusercontent.com/wjz304/r8125/master/r8125/src/check-r8125.sh",
+      "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/src/check-r8125.sh",
       "sha256": "ec4f266812ed308c0e15363315cfe696a2eee48b024130260fca15bd6e63dd91",
       "packed": false
     }
