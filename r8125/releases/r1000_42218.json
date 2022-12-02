@@ -1,11 +1,11 @@
 {
-  "mod_version": "1.0.0",
+  "mod_version": "1.0.1",
 
   "files": [
     {
       "name": "r8125-r1000.tgz",
       "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/releases/r8125-r1000.tgz",
-      "sha256": "3e87b1c94f9af1e657af12e3060e1f15547c995eddf80cab5036c619b9ccb4e4",
+      "sha256": "c7395e8b241946f05f9e6d15cc26571d2379e237a6ea292df47ab69119361ba8",
       "packed": true
     },
     {
