@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "r8125-denverton.tgz",
-      "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/releases/r8125-denverton.tgz",
-      "sha256": "b403906735212cca516f51088841005b081c17f39c5fc57c30b50a6dc0132c31",
+      "name": "r8125-epyc7002.tgz",
+      "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/releases/r8125-epyc7002.tgz",
+      "sha256": "59886a3b54ad516e75def006765dc677d52cb71458724c924014695357ace0c8",
       "packed": true
     },
     {

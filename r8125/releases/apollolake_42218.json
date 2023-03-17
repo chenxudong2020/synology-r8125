@@ -1,11 +1,11 @@
 {
-  "mod_version": "1.0.1",
+  "mod_version": "1.1.0",
 
   "files": [
     {
       "name": "r8125-apollolake.tgz",
       "url": "https://raw.githubusercontent.com/wjz304/synology-r8125/master/r8125/releases/r8125-apollolake.tgz",
-      "sha256": "60c57a8803edc5a285cf153453afa0f2156205a95aa08fa5a1a063b117fbace0",
+      "sha256": "b062b57f894d564e0df13df2da8f4c11d852ec7304a29c870e3d5fbd24425979",
       "packed": true
     },
     {
