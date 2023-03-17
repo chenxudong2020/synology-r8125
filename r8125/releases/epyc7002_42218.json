@@ -1,11 +1,11 @@
 {
-  "mod_version": "1.0.3",
+  "mod_version": "1.0.4",
 
   "files": [
     {
       "name": "r8125-epyc7002.tgz",
       "url": "https://raw.githubusercontent.com/chenxudong2020/synology-r8125/master/r8125/releases/r8125-epyc7002.tgz",
-      "sha256": "bd6f20b2d6092eb8cfb8f67e33b447d4243e533974d4faa2f515c8d64ac9b2dc",
+      "sha256": "cbcd1e00fbb705a7d3ad6ce630d6a029e58bc2009fe32b17cbc66a8f55de2a78",
       "packed": true
     },
     {

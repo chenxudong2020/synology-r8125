@@ -1,11 +1,11 @@
 {
-  "mod_version": "1.0.3",
+  "mod_version": "1.0.4",
 
   "files": [
     {
       "name": "r8125-denverton.tgz",
       "url": "https://raw.githubusercontent.com/chenxudong2020/synology-r8125/master/r8125/releases/r8125-denverton.tgz",
-      "sha256": "49f435b78dd7d290bf86899c030c22faaddc4fc7aaf350c985e5f90667a7f0f3",
+      "sha256": "867d4c34210523ac190de480753a526e09af4f36ddc8d610be3f63947bf04b58",
       "packed": true
     },
     {
