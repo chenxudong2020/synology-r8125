@@ -1,11 +1,11 @@
 {
-  "mod_version": "1.0.4",
+  "mod_version": "1.0.5",
 
   "files": [
     {
       "name": "r8125-geminilake.tgz",
       "url": "https://raw.githubusercontent.com/chenxudong2020/synology-r8125/master/r8125/releases/r8125-geminilake.tgz",
-      "sha256": "7994fd3e5560992a797ee52eb4c63ba3617b2d7de20a5eb7f05000d098c203ff",
+      "sha256": "20c1a6cf06a2e463c91596b248a6bb2667f0bf8c6f6f129718dbca09a6833cf2",
       "packed": true
     },
     {
