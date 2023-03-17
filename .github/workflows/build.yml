@@ -101,7 +101,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         if: (!cancelled())
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.mytoken }}
         with:
           tag_name: ${{ env.new_tag }}
           body: |
